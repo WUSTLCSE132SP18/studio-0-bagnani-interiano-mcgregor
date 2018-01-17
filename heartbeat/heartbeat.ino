@@ -1,6 +1,6 @@
 void setup() {
   Serial.begin(9600);
-//  pinMode(doPin, OUTPUT);
+//   pinMode(doPin, OUTPUT);
 }
 
 void loop() {
